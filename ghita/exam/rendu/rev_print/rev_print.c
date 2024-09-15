@@ -6,7 +6,7 @@
 /*   By: gqid <gqid@student.1337.ma>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 16:44:53 by gqid              #+#    #+#             */
-/*   Updated: 2024/09/14 17:52:32 by gqid             ###   ########.fr       */
+/*   Updated: 2024/09/15 18:13:02 by gqid             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
@@ -38,7 +38,7 @@ char	*ft_rev_print(char *str)
 
 int	main(void)
 {
-	char	str[] = "abc";
+	char	str[] = "dub0 a POIL";
 
 	ft_rev_print(str);
 }
